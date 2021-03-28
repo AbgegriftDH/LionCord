@@ -4,4 +4,4 @@
  
  
  
-[team](./team.md)
+[team](https://github.com/AbgegriftDH/LionCord/tree/master/https:/github.com/AbgegriftDH/LionCord/blob/master)
